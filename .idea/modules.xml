@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Serverless-SOAP-Handler-Template.iml" filepath="$PROJECT_DIR$/.idea/Serverless-SOAP-Handler-Template.iml" />
+      <module fileurl="file:///Volumes/LIAMDRIVE/Reference/Junk/mojo.conveyancing.api/.idea/mojo.conveyancing.api.iml" filepath="/Volumes/LIAMDRIVE/Reference/Junk/mojo.conveyancing.api/.idea/mojo.conveyancing.api.iml" />
+    </modules>
+  </component>
+</project>
